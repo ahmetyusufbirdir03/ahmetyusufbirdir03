@@ -3,9 +3,14 @@
 </p>
 <div align="center" display="grid">
   <h1>Contact with Me 💬</h1>
-  <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
-  </a>
+  <div display="flex">
+    <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
+    </a>
+    <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail ile Mail Gönder" width="40"/>
+</a>
+  </div>
 </div>
 <!--
 **ahmetyusufbirdir03/ahmetyusufbirdir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
