@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hey%20Everyone👋&animation=scaleIn"/>
 </p>
 <p align="center">
-  <img src="https://imgur.com/a/jRJDeel" alt="LinkedIn Profile" >
+  <img src="https://imgur.com/yFteemy" alt="LinkedIn Profile" >
 </p>
 <!--
 **ahmetyusufbirdir03/ahmetyusufbirdir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
