@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20Everyone%20👋&animation=scaleIn&reversal=true&section=header&descAlign=50&descAlignY=50"/>
 </p>
 
-<h1 align ="center"> Contact with Me 💬:
-  <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
-  </a>
-  <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
-  </a>
-</h1>
-
 # 🧑‍💻 About Me
 
 ```yaml
@@ -41,7 +32,7 @@ hobbies:
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2 align="center"> 🚀 &nbsp;Kullandığım ve Öğrendiğim Bazı Araçlar</h2>
+      <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
       <div align="center">
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
@@ -61,24 +52,24 @@ hobbies:
           <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
         </p>
         <p>
-          <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" />
+          <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" />
         </p>
       </div>
     </td>
     <td width="40%" valign="top">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="auto" height="300" alt="Animated GIF"/>
-        <br><br> <h3 align="center"> Benimle İletişime Geçin 💬</h3>
-        <p align="center">
-          <a href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profili"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="auto" height="auto" alt="Animated GIF"/>
+      </div>
+      <div>
+        <h1 align ="center"> Contact with Me 💬:
+          <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
           </a>
-          &nbsp;&nbsp;&nbsp; <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail ile Mail Gönder"/>
+          <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
           </a>
-        </p>
-        
-        </div>
+        </h1>
+      </div>
     </td>
   </tr>
 </table>
