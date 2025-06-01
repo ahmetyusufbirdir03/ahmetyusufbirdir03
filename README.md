@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20Everyone%20👋&animation=scaleIn&reversal=true&section=header&descAlign=50&descAlignY=50"/>
 </p>
 
-<div align="center" style="display: grid;">
+<div align="center" style="display: flex;">
   <h1>Contact with Me 💬</h1>
   <div style="display: flex; gap: 20px; justify-content: center;">
     <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
@@ -75,8 +75,6 @@ hobbies:
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" />
 </div>
-
-![Snake animation](https://github.com/ahmetyusufbirdir03/ahmetyusufbirdir03/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=scaleIn&reversal=true&section=footer"/>
