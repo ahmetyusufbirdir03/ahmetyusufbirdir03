@@ -61,12 +61,19 @@ hobbies:
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="auto" height="auto" alt="Animated GIF"/>
       </div>
       <div>
+        <p>
+          🧠 I’m currently improving my skills in React and NodeJS.
+          🎯 My goal is to deepen my knowledge of backend development for now.
+        </p>
+      </div>
+      <div>
         <h1 align ="center"> Contact with Me 💬:</h1>
           <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50" widht="50"> 
           </a>
+          <br><br>
           <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" height="50" widht="50"/>
           </a>
       </div>
     </td>
