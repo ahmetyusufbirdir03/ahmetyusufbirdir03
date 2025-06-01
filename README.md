@@ -58,20 +58,6 @@ hobbies:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="45" height="45"/>
       </p>
-
-      <!-- GitHub Stats -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" alt="my stats" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" alt="top langs" />
-      </p>
-    </td>
-
-    <!-- Sağ sütun: GIF -->
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="300" alt="gif" />
-    </td>
-
   </tr>
 </table>
 <p align="center">
