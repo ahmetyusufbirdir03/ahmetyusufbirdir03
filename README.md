@@ -60,16 +60,17 @@ hobbies:
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="auto" height="auto" alt="Animated GIF"/>
       </div>
+      <br><br>
       <div>
-        <p>
-          🧠 I’m currently improving my skills in React and NodeJS.
-          🎯 My goal is to deepen my knowledge of backend development for now.
-        </p>
+        <ul>
+          <li>🧠 Currently improving my skills in <strong>React</strong> and <strong>Node.js</strong>.</li>
+          <li>🎯 My current goal is to deepen my knowledge of <strong>backend development</strong>.</li>
+        </ul>
       </div>
       <div>
         <h1 align ="center"> Contact with Me 💬:</h1>
           <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50" widht="50"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50" widht="50">
           </a>
           <br><br>
           <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
@@ -77,6 +78,7 @@ hobbies:
           </a>
       </div>
     </td>
+
   </tr>
 </table>
 
