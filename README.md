@@ -70,4 +70,5 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="45" height="45"/>
 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03)](https://github.com/ahmetyusufbirdir03/github-readme-stats)
