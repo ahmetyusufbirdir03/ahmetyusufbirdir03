@@ -2,17 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20Everyone%20👋&animation=scaleIn&reversal=true&section=header&descAlign=50&descAlignY=50"/>
 </p>
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/" style="text-decoration: none; font-size: 16px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="20" style="vertical-align: middle;">
-    </a>
-    &nbsp;|&nbsp;
-    <a href="mailto:ahmet.yusuf.birdir1@gmail.com" style="text-decoration: none; font-size: 16px;">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail" height="20" style="vertical-align: middle;">
-    </a>
-  </p>
-</div>
+<h1 align ="center"> Contact with Me 💬:
+  <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
+  </a>
+  <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
+  </a>
+</h1>
 
 ---
 
