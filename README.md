@@ -72,6 +72,8 @@ hobbies:
 </p>
 
 <div align="center" display="flex">
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03 icons=true&theme=radical" />
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact icons=true&theme=radical" />
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" />
 </div>
+
+![Snake animation](https://github.com/ahmetyusufbirdir03/ahmetyusufbirdir03/blob/output/github-contribution-grid-snake.svg)
