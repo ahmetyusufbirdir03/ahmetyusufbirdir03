@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hey%20Everyone👋&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20Everyone%20👋&animation=scaleIn&reversal=true&section=header&descAlign=50&descAlignY=50"/>
 </p>
 
 <div align="center" style="display: grid;">
@@ -77,3 +77,7 @@ hobbies:
 </div>
 
 ![Snake animation](https://github.com/ahmetyusufbirdir03/ahmetyusufbirdir03/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=scaleIn&reversal=true&section=footer"/>
+</p>
