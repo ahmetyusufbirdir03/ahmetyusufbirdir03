@@ -74,3 +74,5 @@ hobbies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nice%20to%20Meet%20You🙏&animation=scaleIn&reversal=true&section=footer"/>
 </p>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5waDFmeGczMmlkNDlnbDA5YXg3bGhjMnN4NjdkdjlhYms1NXA2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif">
