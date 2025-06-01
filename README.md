@@ -19,36 +19,26 @@
 # 🧑‍💻 About Me
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+name: Amet Yusuf Birdir
+located_in: Bursa / Turkey
+current_job: 3rd Year Computer Engineering Student
+education: ["Bachelor of Science in Computer Engineering (Ongoing)"]
 
 fields_of_interests:
-[
-"Web Development",
-"Data Science",
-"Machine Learning",
-"UI/UX",
-"Game Development",
-"DevOps",
-]
-technical_background:
-[
-"Full Stack Developer",
-"DevOps Solutions Architect",
-"Intern - Data Science & Machine Learning in Python",
-"Intern - Internet Of Things",
-"Intern - VLSI and FPGA Implementation",
-]
+  ["Frontend Development", "Game Development", "Mobile Development"]
 
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024_Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["React, Node.js", "File transfer in computer networks"]
+2025_Goals:
+  [
+    "Deepen knowledge in backend and mobile application development",
+    "Learn Angular and Vue.js",
+    "Learn mode about responsive design",
+  ]
+hobbies:
+  [
+    "Gaming",
+    "Frontend Design & Styling",
+    "Drawing and Sketching",
+    "Playing Tactical Games",
+  ]
 ```
