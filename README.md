@@ -19,7 +19,7 @@
 # 🧑‍💻 About Me
 
 ```yaml
-name: Amet Yusuf Birdir
+name: Ahmet Yusuf Birdir
 located_in: Bursa / Turkey
 current_job: 3rd Year Computer Engineering Student
 education: ["Bachelor of Science in Computer Engineering (Ongoing)"]
@@ -42,3 +42,10 @@ hobbies:
     "Playing Tactical Games",
   ]
 ```
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
