@@ -71,4 +71,8 @@ hobbies:
 
 </p>
 
+<div align="center" display="flex">
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03" />
+<p></p>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03" />
+</div>
