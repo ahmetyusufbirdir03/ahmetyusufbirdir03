@@ -8,8 +8,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
     </a>
     <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail ile Mail Gönder" width="40"/>
-</a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail ile Mail Gönder" width="50"/>
+    </a>
   </div>
 </div>
 <!--
