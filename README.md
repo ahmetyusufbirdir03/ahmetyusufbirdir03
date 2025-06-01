@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hey%20Everyone👋&animation=scaleIn"/>
 </p>
-
-![alt text](image-1.png)
-
+<p align="center">
+  <img ![alt text](image-1.png) >
+</p>
 <!--
 **ahmetyusufbirdir03/ahmetyusufbirdir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
