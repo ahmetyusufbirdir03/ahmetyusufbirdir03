@@ -39,6 +39,8 @@ hobbies:
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
@@ -66,7 +68,7 @@ hobbies:
 
 </p>
 
-<div align="center" display="flex">
+<div align="center" display="grid">
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufbirdir03&layout=compact&theme=radical" />
 </div>
@@ -74,5 +76,3 @@ hobbies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nice%20to%20Meet%20You🙏&animation=scaleIn&reversal=true&section=footer"/>
 </p>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5waDFmeGczMmlkNDlnbDA5YXg3bGhjMnN4NjdkdjlhYms1NXA2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif">
