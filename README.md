@@ -61,14 +61,13 @@ hobbies:
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyZzRiajhoeTcxaGkzcTlncjM0bnM2MTZncWt6bjBuZjZ3d2JicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="auto" height="auto" alt="Animated GIF"/>
       </div>
       <div>
-        <h1 align ="center"> Contact with Me 💬:
+        <h1 align ="center"> Contact with Me 💬:</h1>
           <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
           </a>
           <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
             <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
           </a>
-        </h1>
       </div>
     </td>
   </tr>
