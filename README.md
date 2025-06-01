@@ -67,7 +67,7 @@ hobbies:
           <li>🎯 My current goal is to deepen my knowledge of <strong>backend development</strong>.</li>
         </ul>
       </div>
-      <div>
+      <div align="center">
         <h1 align ="center"> Contact with Me 💬:</h1>
           <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50" widht="50">
