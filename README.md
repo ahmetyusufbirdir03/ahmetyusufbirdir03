@@ -72,5 +72,5 @@ hobbies:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Nice%20to%20Meet%20You🙏&animation=scaleIn&reversal=true&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nice%20to%20Meet%20You🙏&animation=scaleIn&reversal=true&section=footer"/>
 </p>
