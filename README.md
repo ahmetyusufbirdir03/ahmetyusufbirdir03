@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hey%20Everyone👋&animation=scaleIn"/>
 </p>
-<div align="center">
+<div align="center" display="grid">
+  <h3>Contact with me :</h3>
   <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
   </a>
-<div>
+</div>
 <!--
 **ahmetyusufbirdir03/ahmetyusufbirdir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
