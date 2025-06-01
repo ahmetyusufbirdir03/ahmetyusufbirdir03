@@ -5,7 +5,7 @@
   <h1>Contact with Me 💬</h1>
   <div display="flex">
     <a align="center" href="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-1024.png">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="40"> 
     </a>
     <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail ile Mail Gönder" width="50"/>
