@@ -13,8 +13,7 @@
   </div>
 </div>
 
-<div>
-  <h1>🧑‍💻 About Me</h1>
+<h1>🧑‍💻 About Me</h1>
 ```yaml
 name: Piyush Malhotra
 located_in: Calgary, Alberta
@@ -49,7 +48,8 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
-</div>
+```
+
 <!--
 **ahmetyusufbirdir03/ahmetyusufbirdir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+```
