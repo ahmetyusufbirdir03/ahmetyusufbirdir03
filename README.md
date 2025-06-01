@@ -3,14 +3,14 @@
 </p>
 
 <div align="center" style="display: flex;">
-  <h1 align ="center"> Contact with Me 💬:</h1>
+  <h1 align ="center"> Contact with Me 💬:
     <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="20"> 
     </a>
     <a href="mailto:ahmet.yusuf.birdir1@gmail.com">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="50"/>
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail ile Mail Gönder" width="20"/>
     </a>
-  
+  </h1>
 </div>
 
 ---
