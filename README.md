@@ -71,4 +71,4 @@ hobbies:
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03)](https://github.com/ahmetyusufbirdir03/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03" />
