@@ -15,6 +15,7 @@
 
 <div>
   <h1>🧑‍💻 About Me</h1>
+```yaml
 name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
