@@ -3,7 +3,7 @@
 </p>
 
 <div align="center" style="display: flex;">
-  <h1>Contact with Me 💬:
+  <h1 align ="center">Contact with Me 💬:
     <a align="center" href="https://www.linkedin.com/in/ahmet-yusuf-birdir-199719253/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
     </a>
