@@ -18,7 +18,7 @@ currently_learning: ["React, Node.js", "File transfer in computer networks"]
   [
     "Deepen knowledge in backend and mobile application development",
     "Learn Angular and Vue.js",
-    "Learn mode about responsive design",
+    "Learn more about responsive design",
   ]
 hobbies:
   [
