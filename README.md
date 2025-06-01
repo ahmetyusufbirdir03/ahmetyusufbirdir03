@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hey%20Everyone👋&animation=scaleIn"/>
 </p>
-<div align="center" display="grid">
+<div align="center" style="display: grid;">
   <h1>Contact with Me 💬</h1>
-  <div display="flex">
+  <div style="display: flex; justify-content:center; margin-right: 20px;">
     <a align="center" href="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-1024.png">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="50"> 
     </a>
