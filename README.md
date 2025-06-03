@@ -25,7 +25,6 @@ hobbies:
     "Gaming",
     "Frontend Design & Styling",
     "Drawing and Sketching",
-    "Playing Tactical Games",
   ]
 ```
 
