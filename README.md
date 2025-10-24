@@ -11,9 +11,9 @@ current_job: 3rd Year Computer Engineering Student
 education: ["Bachelor of Science in Computer Engineering (Ongoing)"]
 
 fields_of_interests:
-  ["Frontend Development", "Game Development", "Mobile Development"]
+  ["Fullstack Development", "Game Development", "Mobile Development"]
 
-currently_learning: ["React, Node.js", "File transfer in computer networks"]
+currently_learning: ["Backend Development, "C#"]
 2025_Goals:
   [
     "Deepen knowledge in backend and mobile application development",
