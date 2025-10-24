@@ -62,7 +62,7 @@ hobbies:
       <br><br>
       <div>
         <ul>
-          <li>🧠 Currently improving my skills in <strong>React</strong> and <strong>Node.js</strong>.</li>
+          <li>🧠 Currently improving my skills in <strong>C#</strong>.</li>
           <li>🎯 My current goal is to deepen my knowledge of <strong>backend development</strong>.</li>
         </ul>
       </div>
