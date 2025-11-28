@@ -43,7 +43,7 @@ hobbies:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-          <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23293138" alt="bash" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FF0000" alt="bash" width="45" height="45"/>
           <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF" alt="unity" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="45" height="45"/>
           <img src="https://devicon-website.vercel.app/api/flutter/original.svg" alt="flutter" width="45" height="45"/>
