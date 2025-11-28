@@ -7,7 +7,7 @@
 ```yaml
 name: Ahmet Yusuf Birdir
 located_in: Bursa / Turkey
-current_job: 3rd Year Computer Engineering Student
+current_job: 4th Year Computer Engineering Student
 education: ["Bachelor of Science in Computer Engineering (Ongoing)"]
 
 fields_of_interests:
@@ -17,7 +17,7 @@ currently_learning: ["Backend Development, "C#"]
 2025_Goals:
   [
     "Deepen knowledge in backend and mobile application development",
-    "Learn Angular and Vue.js",
+    "Learn Flutter and Vue.js",
     "Learn more about responsive design",
   ]
 hobbies:
@@ -46,6 +46,10 @@ hobbies:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="45" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="flutter" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" alt=".NetCore" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="C#" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/dart/original.svg" alt="Dart" width="45" height="45"/>
         </p>
         <p>
           <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
