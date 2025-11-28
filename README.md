@@ -50,6 +50,8 @@ hobbies:
           <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" alt=".NetCore" width="45" height="45"/>
           <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="C#" width="45" height="45"/>
           <img src="https://devicon-website.vercel.app/api/dart/original.svg" alt="Dart" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="45" height="45"/>
+          <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" alt="GitHub" width="45" height="45"/>
         </p>
         <p>
           <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ahmetyusufbirdir03&theme=radical" />
